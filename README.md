@@ -1,10 +1,12 @@
 <div align="center">
 
-# 👋 Bonjour, je suis Mamoudou Togo
+<a href="https://github.com/mamoudoutogo1234-coder">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:312E81,100:06B6D4&text=MAMOUDOU%20TOGO&fontColor=FFFFFF&fontSize=46&fontAlignY=42&desc=Software%20Developer%20%7C%20Freelancer%20%7C%20Embedded%20Systems&descAlignY=63&descSize=16&animation=fadeIn" alt="Mamoudou Togo - Software Developer">
+</a>
 
-### Développeur logiciel & Freelancer
-
-**Applications web · Applications mobiles · Systèmes embarqués**
+<a href="https://github.com/mamoudoutogo1234-coder">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=06B6D4&center=true&vCenter=true&width=700&lines=Web+%7C+Mobile+%7C+Embedded+Systems;Laravel+%7C+Flutter+%7C+JavaScript+%7C+PostgreSQL;Turning+ideas+into+reliable+digital+solutions" alt="Typing introduction">
+</a>
 
 <p>
   <a href="https://github.com/mamoudoutogo1234-coder">
@@ -33,25 +35,31 @@ Je suis **développeur logiciel et freelancer**. Je conçois des applications we
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=laravel,flutter,html,css,js,postgres,git,arduino&perline=8" alt="Laravel, Flutter, HTML, CSS, JavaScript, PostgreSQL, Git and Arduino">
+
+</div>
+
+<div align="center">
+
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Systèmes_embarqués-374151?style=for-the-badge&logo=arduino&logoColor=white" alt="Systèmes embarqués">
 
 </div>
 
-## 🛠️ Mes domaines d'intervention
+## 🌐 Mon univers de création
 
-| Domaine | Ce que je réalise |
-| --- | --- |
-| 🌐 **Web** | Applications et plateformes web avec Laravel, HTML, CSS et JavaScript |
-| 📱 **Mobile** | Applications mobiles multiplateformes avec Flutter |
-| 🗄️ **Bases de données** | Conception et gestion de bases de données PostgreSQL |
-| ⚙️ **Embarqué** | Conception de systèmes embarqués et intégration logiciel-matériel |
-| 🤝 **Freelance** | Développement sur mesure, maintenance et accompagnement |
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><strong>🌐 WEB</strong><br><sub>Laravel · HTML · CSS · JavaScript</sub></td>
+    <td align="center" width="25%"><strong>📱 MOBILE</strong><br><sub>Applications multiplateformes avec Flutter</sub></td>
+    <td align="center" width="25%"><strong>⚙️ EMBARQUÉ</strong><br><sub>Logiciel · électronique · intégration</sub></td>
+    <td align="center" width="25%"><strong>🤝 FREELANCE</strong><br><sub>Solutions sur mesure et maintenance</sub></td>
+  </tr>
+</table>
 
 ## 🌟 Projets sélectionnés
 
@@ -68,6 +76,10 @@ Je suis **développeur logiciel et freelancer**. Je conçois des applications we
 ---
 
 <div align="center">
+
+<a href="mailto:mamoudoutogo1234@gmail.com">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:06B6D4,50:312E81,100:0F172A&section=footer" alt="Footer design">
+</a>
 
 ### 💡 Une idée ? Construisons-la ensemble.
 
