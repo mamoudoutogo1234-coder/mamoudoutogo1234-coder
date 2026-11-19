@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/mamoudoutogo1234-coder">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:312E81,100:06B6D4&text=MAMOUDOU%20TOGO&fontColor=FFFFFF&fontSize=46&fontAlignY=42&desc=Software%20Developer%20%7C%20Freelancer%20%7C%20Embedded%20Systems&descAlignY=63&descSize=16&animation=fadeIn" alt="Mamoudou Togo - Software Developer">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=420&color=0:0F172A,50:312E81,100:06B6D4&text=MAMOUDOU%20TOGO&fontColor=FFFFFF&fontSize=46&fontAlignY=42&desc=Software%20Developer%20%7C%20Freelancer%20%7C%20Embedded%20Systems&descAlignY=63&descSize=16&animation=fadeIn" alt="Mamoudou Togo - Software Developer">
 </a>
 
 <a href="https://github.com/mamoudoutogo1234-coder">
