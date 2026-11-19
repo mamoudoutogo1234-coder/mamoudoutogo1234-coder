@@ -1,16 +1,41 @@
 <div align="center">
 
-# 👋 Bonjour, je suis Mamoudou Togo
-
-### Développeur logiciel & Freelancer • Applications web • Applications mobiles • Systèmes embarqués
-
-<p>
-  <a href="https://github.com/mamoudoutogo1234-coder"><img src="https://img.shields.io/github/followers/mamoudoutogo1234-coder?label=Followers&style=for-the-badge&color=7C3AED" alt="GitHub followers"></a>
-  <a href="https://github.com/mamoudoutogo1234-coder?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-06B6D4?style=for-the-badge" alt="Explore projects"></a>
+<p align="center">
+  <img src="./assets/liquid-morph-wordmark.svg" alt="{{name_short}} — {{tagline}}" width="100%" />
 </p>
 
-</div>
+---
 
+<table border="0" align="center" width="80%">
+  <tr>
+    <td valign="top" width="60%">
+
+### what
+
+{{what_paragraph}}
+
+### now
+
+{{now_paragraph}}
+
+### writing
+
+{{writing_paragraph}}
+
+    </td>
+    <td valign="top" width="40%" align="right">
+      <p><strong>SELECTED</strong><br>
+      <code>01</code> &nbsp; <a href="{{work_one_url}}">{{work_one_name}}</a><br>
+      <code>02</code> &nbsp; <a href="{{work_two_url}}">{{work_two_name}}</a><br>
+      <code>03</code> &nbsp; <a href="{{work_three_url}}">{{work_three_name}}</a></p>
+
+      <p><strong>FIND</strong><br>
+      <a href="{{website_url}}">{{website}}</a><br>
+      <a href="https://twitter.com/{{twitter}}">@{{twitter}}</a><br>
+      <a href="mailto:{{email}}">{{email}}</a></p>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🚀 À propos de moi
