@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Mamoudou Togo</title>
+  <desc id="desc">Software developer, freelancer, and embedded systems designer</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="55%" stop-color="#17134a"/>
+      <stop offset="100%" stop-color="#062f46"/>
+    </linearGradient>
+    <linearGradient id="blob" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="48%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="17" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <radialGradient id="shine">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity=".36"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="360" rx="34" fill="url(#background)"/>
+  <circle cx="180" cy="65" r="145" fill="#2563eb" opacity=".14"/>
+  <circle cx="1080" cy="330" r="210" fill="#06b6d4" opacity=".12"/>
+  <path d="M305 176c-4-62 48-110 112-105 48-42 119-25 139 24 63-4 107 42 95 96-7 35-39 62-78 70H390c-48-9-82-39-85-85Z" fill="url(#blob)" opacity=".88" filter="url(#glow)"/>
+  <ellipse cx="505" cy="135" rx="145" ry="48" fill="url(#shine)" opacity=".7"/>
+  <text x="600" y="178" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" letter-spacing="3">MAMOUDOU TOGO</text>
+  <text x="600" y="231" text-anchor="middle" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="2">SOFTWARE DEVELOPER  ·  FREELANCER  ·  EMBEDDED SYSTEMS</text>
+  <path d="M470 272h260" stroke="#22d3ee" stroke-width="3" stroke-linecap="round" opacity=".85"/>
+</svg>
