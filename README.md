@@ -63,8 +63,9 @@ Je suis **développeur logiciel et freelancer**. Je conçois des applications we
 
 ## 🌟 Projets sélectionnés
 
-- 🛒 [**NextConnect**](https://github.com/mamoudoutogo1234-coder/NextConnect-v2026_1) — Marketplace mettant en relation producteurs et acheteurs.
-- 🎓 [**NextSchool**](https://github.com/mamoudoutogo1234-coder/NextSchool-v2026-1) — Solution logicielle dédiée au secteur de l'éducation.
+- 🛒 [**NextShop**](https://github.com/mamoudoutogo1234-coder/NextDEV-App/releases#release-NextShop_Publish) — Logiciel de Gestion Boutique  et Grandes surface & application de surveillance Connectée.
+- 🎓 [**NextSchool**](https://github.com/mamoudoutogo1234-coder/NextDEV-App/releases/tag/NextSchool_Publish) — Solution logicielle dédiée au secteur de l'éducation.
+- 
 - 📂 [**Tous mes projets**](https://github.com/mamoudoutogo1234-coder?tab=repositories) — Découvrez l'ensemble de mes réalisations.
 
 ## 📌 Liens utiles
@@ -72,6 +73,7 @@ Je suis **développeur logiciel et freelancer**. Je conçois des applications we
 - [GitHub](https://github.com/mamoudoutogo1234-coder)
 - [Mes repositories](https://github.com/mamoudoutogo1234-coder?tab=repositories)
 - [Me contacter par email](mailto:mamoudoutogo1234@gmail.com)
+- [Try Hack Me](https://tryhackme.com/p/ScorpionMT)
 
 ---
 
